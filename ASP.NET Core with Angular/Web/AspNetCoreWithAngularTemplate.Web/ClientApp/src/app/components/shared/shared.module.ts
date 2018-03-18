@@ -1,4 +1,4 @@
-﻿import { NgModule } from '@angular/core';
+import { NgModule } from '@angular/core';
 import { CommonModule } from '@angular/common';
 import { FormsModule } from '@angular/forms';
 import { RouterModule } from '@angular/router';
@@ -9,8 +9,10 @@ import { AppHeaderComponent } from './theme/app-header.component';
 import { APP_DIRECTIVES } from '../../directives/index';
 import { APP_PIPES } from '../../pipes/index';
 
+import { MaterialModule } from './material/material.module'
+
 @NgModule({
-    imports: [CommonModule, FormsModule, RouterModule],
+    imports: [CommonModule, FormsModule, RouterModule, MaterialModule],
     declarations: [
         AppFooterComponent,
         AppHeaderComponent,
@@ -27,7 +29,9 @@ import { APP_PIPES } from '../../pipes/index';
         AppHeaderComponent,
 
         APP_DIRECTIVES,
-        APP_PIPES
+        APP_PIPES,
+		
+		    MaterialModule
     ]
 })
 
