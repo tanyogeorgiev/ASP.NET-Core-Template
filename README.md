@@ -1,6 +1,6 @@
 # ASP.NET-Core-Template
 
-<img src="https://ci.appveyor.com/api/projects/status/89roqcfs999pt59u3kak?svg=true" alt="Project Badge" width="300">
+[https://ci.appveyor.com/api/projects/status/32r7s2skrgm9ubva?svg=true](https://ci.appveyor.com/api/projects/status/32r7s2skrgm9ubva?svg=true)
 
 - Repositories
 - Services
