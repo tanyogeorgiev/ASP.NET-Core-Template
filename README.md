@@ -1,6 +1,6 @@
 # ASP.NET-Core-Template
+[![Build status](https://ci.appveyor.com/api/projects/status/8gbrd9o36koi2hu7/branch/master?svg=true)](https://ci.appveyor.com/project/tanyogeorgiev/asp-net-core-template/branch/master)
 
- [![Build status](https://ci.appveyor.com/api/projects/status/89roqcfs999pt59u3kak/branch/master?svg=true)](https://ci.appveyor.com/project/tanyogeorgiev/asp-net-core-template/branch/master)
 
 - Repositories
 - Services
