@@ -1,6 +1,6 @@
 # ASP.NET-Core-Template
 
-[https://ci.appveyor.com/api/projects/status/32r7s2skrgm9ubva?svg=true](https://ci.appveyor.com/api/projects/status/32r7s2skrgm9ubva?svg=true)
+[https://ci.appveyor.com/api/projects/status/89roqcfs999pt59u3kak?svg=true](https://ci.appveyor.com/api/projects/status/89roqcfs999pt59u3kak?svg=true)
 
 - Repositories
 - Services
