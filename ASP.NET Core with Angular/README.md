@@ -1,5 +1,4 @@
-﻿## How to run the project
-
-1. Open the project with Visual Studio 2017
-2. Restore npm packages
-3. Run gulp dev
+# Info
+- Use new [VS Angular template](https://docs.microsoft.com/en-us/aspnet/core/spa/angular?tabs=visual-studio)
+- Users and JWT authentication 
+- Todo list feauture, for demo/test.
