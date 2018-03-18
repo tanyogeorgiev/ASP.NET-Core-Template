@@ -20,7 +20,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\AspNetCoreWithAngularTemplate.Common\AspNetCoreWithAngularTemplate.Common.csproj" />
+    <ProjectReference Include="..\..\AspNetCoreWithNewAngularTemplate.Common\AspNetCoreWithAngularTemplate.Common.csproj" />
   </ItemGroup>
 
 </Project>

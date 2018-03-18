@@ -21,13 +21,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AspNetCoreWithAngularTempla
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AspNetCoreWithAngularTemplate.Data.Common", "Data\AspNetCoreWithAngularTemplate.Data.Common\AspNetCoreWithAngularTemplate.Data.Common.csproj", "{D0D59508-CF8B-4656-A344-396C530BB9DF}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AspNetCoreWithAngularTemplate.Common", "AspNetCoreWithAngularTemplate.Common\AspNetCoreWithAngularTemplate.Common.csproj", "{A2288C46-0FBF-43B6-80B6-3072FD65BC32}"
-EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AspNetCoreWithAngularTemplate.Web.Infrastructure", "Web\AspNetCoreWithAngularTemplate.Web.Infrastructure\AspNetCoreWithAngularTemplate.Web.Infrastructure.csproj", "{7A7A7986-1F5B-4EBD-9B17-8B41F8FABA58}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AspNetCoreWithAngularTemplate.Services.Data", "Services\AspNetCoreWithAngularTemplate.Services.Data\AspNetCoreWithAngularTemplate.Services.Data.csproj", "{4D39C126-3FB5-4B26-B08C-1BF48EFFA23E}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AspNetCoreWithAngularTemplate.Web", "Web\AspNetCoreWithAngularTemplate.Web\AspNetCoreWithAngularTemplate.Web.csproj", "{834A3955-5179-401A-B1E5-27E9AD3DB1AE}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AspNetCoreWithAngularTemplate.Common", "AspNetCoreWithNewAngularTemplate.Common\AspNetCoreWithAngularTemplate.Common.csproj", "{DC461080-6338-4808-88AE-2F61E5BB7A76}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -55,10 +55,6 @@ Global
 		{D0D59508-CF8B-4656-A344-396C530BB9DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D0D59508-CF8B-4656-A344-396C530BB9DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D0D59508-CF8B-4656-A344-396C530BB9DF}.Release|Any CPU.Build.0 = Release|Any CPU
-		{A2288C46-0FBF-43B6-80B6-3072FD65BC32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{A2288C46-0FBF-43B6-80B6-3072FD65BC32}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{A2288C46-0FBF-43B6-80B6-3072FD65BC32}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{A2288C46-0FBF-43B6-80B6-3072FD65BC32}.Release|Any CPU.Build.0 = Release|Any CPU
 		{7A7A7986-1F5B-4EBD-9B17-8B41F8FABA58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{7A7A7986-1F5B-4EBD-9B17-8B41F8FABA58}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7A7A7986-1F5B-4EBD-9B17-8B41F8FABA58}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -71,6 +67,10 @@ Global
 		{834A3955-5179-401A-B1E5-27E9AD3DB1AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{834A3955-5179-401A-B1E5-27E9AD3DB1AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{834A3955-5179-401A-B1E5-27E9AD3DB1AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC461080-6338-4808-88AE-2F61E5BB7A76}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC461080-6338-4808-88AE-2F61E5BB7A76}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC461080-6338-4808-88AE-2F61E5BB7A76}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC461080-6338-4808-88AE-2F61E5BB7A76}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
